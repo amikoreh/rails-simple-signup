@@ -3,7 +3,7 @@ Simple Ruby on Rails Website with Registration/Signup
 
 #### Application Requires/Configuration:
 * Ruby 2.4.0
-* Rails 5.0.2
+* Rails 5.1.4
 * Web server for development/production: puma
 * Database used: sqlite
 * Template engine: erb
@@ -14,6 +14,7 @@ Simple Ruby on Rails Website with Registration/Signup
 #### Setup & Run
 * $ bundle install
 * $ bundle update
+* $ gem install
 * $ gem list
 * $ gem update
 * $ rake secret
